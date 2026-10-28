@@ -23,3 +23,7 @@ python corpus/build_annotation_sample.py --nazario /tmp/nazario_sample.json --te
 ```
 
 The manifest is an identity check for the sample; the repository contains only IDs, source names, and body hashes.
+
+## Source-native ID recovery status
+
+The local workspace has Nazario mbox files and a prepared Nazario sample, but it does not have the TExtPhish source CSV or the Enron maildir/archive. Because two raw sources are missing, source-native ID recovery was stopped without changing `manifest.csv` or `build_annotation_sample.py`. No source-native IDs or unmatched-hash claims have been inferred; the existing IDs remain the sequential annotation IDs. Revisit this item when the TExtPhish CSV and Enron source files are available.

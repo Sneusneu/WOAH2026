@@ -7,4 +7,4 @@ Every prediction record contains an email ID and boolean labels only. Raw bodies
 - `dideco60/gold_standard.json` is the 60-email historical gold with voter-roster and per-item voter-count metadata removed.
 - `nazario120/2026-06-01/` contains the six 120-email outputs and inter-model metrics; there is no matching human gold for that corpus in the source folder.
 - `computed_metrics.json` is regenerated from the mixed-100 annotations, human labels, and the evaluator. `dideco60/metrics.json` and `nazario120/metrics.json` contain the corresponding corpus-specific summaries.
-- `reported_tables/` contains the available source tables. They are not a complete set of seven separate table files; the raw predictions and computed metrics are the reproducible values available in this folder.
+`results/` holds the model outputs, and the evaluation scripts regenerate the reported tables' numbers. Run the commands in the root README from the release root. The workspace does not preserve a final mapping from paper table numbers to evaluation scripts.

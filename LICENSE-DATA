@@ -5,3 +5,5 @@ The anonymized human annotations, majority-vote labels, sub-label definitions, a
 Attribution: Popovic, Parmentier, Lauer, Riquet, and Meyer, “How Reliable Are LLM Annotators for Online Manipulation? Evidence from Phishing and Abuse Corpora” (WOAH 2026). This release anonymizes human annotators and omits examples that could reproduce source-email text.
 
 Source email corpora and any source email text are not included in this release and are not covered by this license. Each source corpus remains subject to its own terms and license.
+
+TExtPhish is access-gated under CC BY-NC-ND 4.0. The TExtPhish subset in this release is represented only by IDs, body hashes in the manifest, and labels; no TExtPhish content is included. TExtPhish keeps its own terms. See the [TExtPhish dataset card](https://huggingface.co/datasets/TExtPhish/TExtPhish).
