@@ -1,0 +1,70 @@
+{
+  "n_emails": 100,
+  "human_krippendorff_alpha": {
+    "all": 0.6037872714907733,
+    "explicit": 0.5159156483017167,
+    "implicit": 0.6554714852770596
+  },
+  "models": {
+    "claude_sonnet4": {
+      "top_level_macro_kappa": 0.6482070848147097,
+      "top_level_per_label_kappa": {
+        "information_manipulation": 0.6849942726231386,
+        "resource_acquisition": 0.8542880932556204,
+        "trust_establishment": 0.5610687022900764,
+        "call_to_action": 0.6803069053708442,
+        "authority": 0.7740345110928513,
+        "social_proof": 0.05020352781546858,
+        "liking_similarity_deception": 0.7606701236537694,
+        "distraction": 0.8058671268334772,
+        "commitment_integrity_reciprocation": 0.6624305003971406
+      },
+      "sublabel_macro_kappa": 0.4685590296253381,
+      "sublabel_explicit_macro_kappa": 0.5605735738991049,
+      "sublabel_implicit_macro_kappa": 0.4194846060126625,
+      "sublabel_micro_f1": 0.8092835519677095,
+      "sublabel_micro_precision": 0.7816764132553606,
+      "sublabel_micro_recall": 0.8389121338912134
+    },
+    "gemma3_27b": {
+      "top_level_macro_kappa": 0.688805436672036,
+      "top_level_per_label_kappa": {
+        "information_manipulation": 0.2277140335392762,
+        "resource_acquisition": 0.9781659388646288,
+        "trust_establishment": 0.651639344262295,
+        "call_to_action": 0.9165739710789765,
+        "authority": 0.6887966804979253,
+        "social_proof": 0.5501285347043704,
+        "liking_similarity_deception": 0.6985530546623794,
+        "distraction": 0.7627264883520276,
+        "commitment_integrity_reciprocation": 0.724950884086444
+      },
+      "sublabel_macro_kappa": 0.37159654036214923,
+      "sublabel_explicit_macro_kappa": 0.45353268390565715,
+      "sublabel_implicit_macro_kappa": 0.32789726380561157,
+      "sublabel_micro_f1": 0.7806925498426023,
+      "sublabel_micro_precision": 0.783157894736842,
+      "sublabel_micro_recall": 0.7782426778242678
+    },
+    "qwen2_5_7b": {
+      "top_level_macro_kappa": 0.45561593204374023,
+      "top_level_per_label_kappa": {
+        "information_manipulation": 0.21052631578947387,
+        "resource_acquisition": 0.9110320284697508,
+        "trust_establishment": 0.5365853658536587,
+        "call_to_action": 0.6969696969696971,
+        "authority": 0.11032028469750862,
+        "social_proof": 0.4299674267100977,
+        "liking_similarity_deception": 0.5362903225806452,
+        "distraction": 0.48071216617210677,
+        "commitment_integrity_reciprocation": 0.18813978115072366
+      },
+      "sublabel_macro_kappa": 0.2317822805972071,
+      "sublabel_explicit_macro_kappa": 0.3686799622345326,
+      "sublabel_implicit_macro_kappa": 0.15877018372396684,
+      "sublabel_micro_f1": 0.6021505376344086,
+      "sublabel_micro_precision": 0.8421052631578947,
+      "sublabel_micro_recall": 0.4686192468619247
+    }
+  }
+}

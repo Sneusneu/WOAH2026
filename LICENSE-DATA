@@ -1,0 +1,7 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The anonymized human annotations, majority-vote labels, sub-label definitions, and revised annotator guidelines in this repository are made available under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Attribution: Popovic, Parmentier, Lauer, Riquet, and Meyer, “How Reliable Are LLM Annotators for Online Manipulation? Evidence from Phishing and Abuse Corpora” (WOAH 2026). This release anonymizes human annotators and omits examples that could reproduce source-email text.
+
+Source email corpora and any source email text are not included in this release and are not covered by this license. Each source corpus remains subject to its own terms and license.

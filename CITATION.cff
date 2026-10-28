@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper."
+title: "How Reliable Are LLM Annotators for Online Manipulation? Evidence from Phishing and Abuse Corpora"
+authors:
+  - family-names: Popovic
+  - family-names: Parmentier
+  - family-names: Lauer
+  - family-names: Riquet
+  - family-names: Meyer
+date-released: 2026-10-28
+type: software
+license: MIT
+repository-code: "https://github.com/Sneusneu/WOAH2026"

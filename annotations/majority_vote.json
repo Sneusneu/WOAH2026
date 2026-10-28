@@ -1,0 +1,2902 @@
+{
+  "enr_0001": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0002": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0003": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0004": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": true,
+      "moral_duty": true,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "enr_0005": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0006": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0007": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0008": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0009": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0010": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "enr_0011": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0012": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": true,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "enr_0013": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0014": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": true,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "enr_0015": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": true,
+      "moral_duty": true,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "enr_0016": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0017": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0018": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0019": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": true,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0020": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0021": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0022": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0023": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0024": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0025": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0026": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0027": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0028": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": true,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": true,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0029": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "enr_0030": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0031": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0032": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0033": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": true,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": true,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "enr_0034": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0001": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0002": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": true,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": true,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": true
+    }
+  },
+  "naz_0003": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0004": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0005": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": true,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0006": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": true,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0007": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": true,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0008": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0009": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0010": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0011": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0012": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0013": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0014": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0015": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": true,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0016": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0017": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0018": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": true,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0019": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": true,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": true,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": true,
+      "integrity": false,
+      "consistency": true,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0020": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0021": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0022": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": true,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0023": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": true,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0024": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0025": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": true,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0026": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0027": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": true,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0028": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": true,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0029": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0030": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0031": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "naz_0032": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": true,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "naz_0033": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": true,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0001": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": true,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0002": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0003": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0004": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0005": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0006": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": true,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0007": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0008": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "txp_0009": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0010": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0011": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0012": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0013": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": true,
+      "legitimacy_creation": true,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": true,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "txp_0014": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0015": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0016": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0017": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0018": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0019": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0020": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0021": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0022": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": true,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0023": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0024": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0025": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0026": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "txp_0027": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0028": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "txp_0029": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0030": {
+    "explicit": {
+      "information_gathering": true,
+      "information_control": false,
+      "direct_financial_gain": false,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": false,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": false,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": false,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": false,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": false,
+      "reciprocation": false
+    }
+  },
+  "txp_0031": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": true,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0032": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": true
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": false,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": false,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  },
+  "txp_0033": {
+    "explicit": {
+      "information_gathering": false,
+      "information_control": false,
+      "direct_financial_gain": true,
+      "indirect_resource_acquisition": false,
+      "identity_establishment": false,
+      "legitimacy_creation": false,
+      "direct_action_requests": true,
+      "indirect_action_facilitation": false
+    },
+    "implicit": {
+      "authority": true,
+      "herd_mentality": false,
+      "diffusion_of_responsibility": false,
+      "moral_duty": true,
+      "general_deception": true,
+      "deceptive_relationships": false,
+      "liking_and_similarity": false,
+      "scarcity": true,
+      "overloading": false,
+      "strong_affect": true,
+      "need_and_greed": false,
+      "integrity": false,
+      "consistency": false,
+      "commitment": true,
+      "reciprocation": false
+    }
+  }
+}

@@ -1,0 +1,304 @@
+[
+  {
+    "id": "1.1.1",
+    "field": "information_gathering",
+    "name": "Explicit / Information Manipulation / Information Gathering",
+    "type": "explicit",
+    "parent_id": "1.1",
+    "description": "Direct requests aimed at obtaining data, credentials, or identity confirmation from the recipient.",
+    "criteria": [
+      "Explicit requests for credentials, passwords, or account details",
+      "Requests for identity confirmation or verification",
+      "Direct or indirect questions aimed at harvesting personal or organisational data"
+    ]
+  },
+  {
+    "id": "1.1.2",
+    "field": "information_control",
+    "name": "Explicit / Information Manipulation / Information Control",
+    "type": "explicit",
+    "parent_id": "1.1",
+    "description": "Instructions to manage system access, permissions, or credential configurations.",
+    "criteria": [
+      "Instructions to modify account preferences or security settings",
+      "Requests to update or change credentials",
+      "Directives to assign or revoke system access"
+    ]
+  },
+  {
+    "id": "1.2.1",
+    "field": "direct_financial_gain",
+    "name": "Explicit / Resource Acquisition / Direct Financial Gain",
+    "type": "explicit",
+    "parent_id": "1.2",
+    "description": "Explicit requests for money transfers, bank account details, or payment credentials.",
+    "criteria": [
+      "Requests for wire transfers or cryptocurrency payments",
+      "Requests for bank account or payment credential details",
+      "Demands for immediate financial action"
+    ]
+  },
+  {
+    "id": "1.2.2",
+    "field": "indirect_resource_acquisition",
+    "name": "Explicit / Resource Acquisition / Indirect Resource Acquisition",
+    "type": "explicit",
+    "parent_id": "1.2",
+    "description": "Requests for non-monetary resources with clear transferable value such as gift cards, equipment, or admin rights.",
+    "criteria": [
+      "Requests to purchase gift cards and share codes",
+      "Requests to order or ship physical equipment",
+      "Requests to grant system or administrative access"
+    ]
+  },
+  {
+    "id": "1.3.1",
+    "field": "identity_establishment",
+    "name": "Explicit / Trust Establishment / Identity Establishment",
+    "type": "explicit",
+    "parent_id": "1.3",
+    "description": "The sender explicitly asserts their name, role, title, or organisational position to establish credibility.",
+    "criteria": [
+      "Explicit introduction of name and professional title",
+      "Claims of institutional affiliation or seniority",
+      "Personal identity assertion used to justify the request"
+    ]
+  },
+  {
+    "id": "1.3.2",
+    "field": "legitimacy_creation",
+    "name": "Explicit / Trust Establishment / Legitimacy Creation",
+    "type": "explicit",
+    "parent_id": "1.3",
+    "description": "The email invokes a known organisation, brand, official process, or compliance requirement to appear legitimate.",
+    "criteria": [
+      "Reference to a known brand or institution to justify the request",
+      "Claims of mandatory compliance, policy, or regulation",
+      "Use of official-sounding language or process framing"
+    ]
+  },
+  {
+    "id": "1.4.1",
+    "field": "direct_action_requests",
+    "name": "Explicit / Call to Action / Direct Action Requests",
+    "type": "explicit",
+    "parent_id": "1.4",
+    "description": "Explicit instruction for an immediate specific action such as clicking a link, filling a form, sending information, or confirming details.",
+    "criteria": [
+      "Imperative verbs directing immediate action (click, fill, send, confirm, call)",
+      "Clear deadline attached to the action",
+      "Action is specific and immediately executable"
+    ]
+  },
+  {
+    "id": "1.4.2",
+    "field": "indirect_action_facilitation",
+    "name": "Explicit / Call to Action / Indirect Action Facilitation",
+    "type": "explicit",
+    "parent_id": "1.4",
+    "description": "The email sets up conditions for a future required action without issuing the direct command yet.",
+    "criteria": [
+      "Preparatory instructions that enable a future step",
+      "Request for a reply or acknowledgement that triggers next steps",
+      "Framing that implies a mandatory follow-up action is coming"
+    ]
+  },
+  {
+    "id": "2.1.1",
+    "field": "authority",
+    "name": "Implicit / Authority",
+    "type": "implicit",
+    "parent_id": "2.1",
+    "description": "The email exploits hierarchical power, invokes institutional authority, or threatens consequences for non-compliance to compel action.",
+    "criteria": [
+      "Reference to a superior's approval or directive",
+      "Threat of consequences for non-compliance",
+      "Invocation of institutional hierarchy to pressure action"
+    ]
+  },
+  {
+    "id": "2.2.1",
+    "field": "herd_mentality",
+    "name": "Implicit / Social Proof / Herd Mentality",
+    "type": "implicit",
+    "parent_id": "2.2",
+    "description": "The email claims that most or everyone has already complied, implying the recipient should follow the group.",
+    "criteria": [
+      "Explicit claim that colleagues or peers have already acted",
+      "Quantified statements of prior compliance to create social pressure",
+      "Framing the recipient as an outlier for not yet complying"
+    ]
+  },
+  {
+    "id": "2.2.2",
+    "field": "diffusion_of_responsibility",
+    "name": "Implicit / Social Proof / Diffusion of Responsibility",
+    "type": "implicit",
+    "parent_id": "2.2",
+    "description": "The email uses collective framing to dilute individual agency, implying this applies to everyone and reducing personal accountability.",
+    "criteria": [
+      "Emphasis that the request applies to all employees or everyone",
+      "Collective framing that removes the sense of individual choice",
+      "Language that makes non-compliance feel like a group failure"
+    ]
+  },
+  {
+    "id": "2.2.3",
+    "field": "moral_duty",
+    "name": "Implicit / Social Proof / Moral Duty",
+    "type": "implicit",
+    "parent_id": "2.2",
+    "description": "The email appeals to the recipient's prosocial values, framing compliance as protecting or benefiting others.",
+    "criteria": [
+      "Framing compliance as an act of protection for colleagues or the organisation",
+      "Appeal to shared responsibility for collective safety or wellbeing",
+      "Altruistic framing that makes refusal feel selfish"
+    ]
+  },
+  {
+    "id": "2.3.1",
+    "field": "general_deception",
+    "name": "Implicit / Liking, Similarity & Deception / General Deception",
+    "type": "implicit",
+    "parent_id": "2.3",
+    "description": "The email presents a scenario or claim that is objectively false or fabricated to manipulate the recipient.",
+    "criteria": [
+      "Objectively false claims presented as fact",
+      "Fabricated scenarios used to justify the request",
+      "Impersonation of a legitimate entity or process"
+    ]
+  },
+  {
+    "id": "2.3.2",
+    "field": "deceptive_relationships",
+    "name": "Implicit / Liking, Similarity & Deception / Deceptive Relationships",
+    "type": "implicit",
+    "parent_id": "2.3",
+    "description": "The email falsifies a prior relationship, fakes a referral, or claims false familiarity to lower the recipient's guard.",
+    "criteria": [
+      "False claim of a prior meeting or conversation",
+      "Fabricated referral from a known contact",
+      "False claim of personal or professional relationship"
+    ]
+  },
+  {
+    "id": "2.3.3",
+    "field": "liking_and_similarity",
+    "name": "Implicit / Liking, Similarity & Deception / Liking & Similarity",
+    "type": "implicit",
+    "parent_id": "2.3",
+    "description": "The email exploits genuine or claimed shared characteristics, expertise, or identity to build manipulative rapport.",
+    "criteria": [
+      "Claim of shared professional identity or expertise",
+      "Appeal to shared background, values, or experience",
+      "Flattery or praise used to create reciprocal goodwill"
+    ]
+  },
+  {
+    "id": "2.4.1",
+    "field": "scarcity",
+    "name": "Implicit / Distraction / Scarcity",
+    "type": "implicit",
+    "parent_id": "2.4",
+    "description": "Exploits perceived limits on available time or resources to prompt action.",
+    "criteria": [
+      "Explicit deadline or countdown attached to the request",
+      "Urgency language ('immediately', 'now', 'last chance')",
+      "Threat of negative consequences if action is not taken within a time window",
+      "Claims of limited spots, quantities, or availability",
+      "Framing the offer as exclusive or available only to a select group",
+      "Scarcity used to prevent deliberation"
+    ]
+  },
+  {
+    "id": "2.4.2",
+    "field": "overloading",
+    "name": "Implicit / Distraction / Overloading",
+    "type": "implicit",
+    "parent_id": "2.4",
+    "description": "The email deliberately overwhelms with multiple simultaneous demands or dense complex information to bypass rational judgment.",
+    "criteria": [
+      "Multiple concurrent action requests in a single email",
+      "Dense or complex information deliberately exceeding processing capacity",
+      "Cognitive overload used to prevent critical evaluation"
+    ]
+  },
+  {
+    "id": "2.4.3",
+    "field": "strong_affect",
+    "name": "Implicit / Distraction / Strong Affect",
+    "type": "implicit",
+    "parent_id": "2.4",
+    "description": "The email deliberately triggers fear, alarm, or excitement to bypass rational analysis.",
+    "criteria": [
+      "Fear-inducing language about account suspension, security breach, or legal action",
+      "Excitement or reward framing designed to cloud judgment",
+      "Emotional intensity used to prevent careful evaluation"
+    ]
+  },
+  {
+    "id": "2.4.4",
+    "field": "need_and_greed",
+    "name": "Implicit / Distraction / Need & Greed",
+    "type": "implicit",
+    "parent_id": "2.4",
+    "description": "The email appeals to exceptional financial reward, exclusive status, or personal enrichment opportunity.",
+    "criteria": [
+      "Promise of disproportionate financial gain",
+      "Appeal to desire for exclusive status or recognition",
+      "Framing compliance as a path to personal enrichment"
+    ]
+  },
+  {
+    "id": "2.5.1",
+    "field": "integrity",
+    "name": "Implicit / Commitment, Integrity & Reciprocation / Integrity",
+    "type": "implicit",
+    "parent_id": "2.5",
+    "description": "The sender explicitly signals their own honesty, transparency, or good faith to lower the recipient's guard.",
+    "criteria": [
+      "Explicit personal claim of honesty or good faith",
+      "Proactive disclaimer of malicious intent",
+      "Transparency performance used to disarm suspicion"
+    ]
+  },
+  {
+    "id": "2.5.2",
+    "field": "consistency",
+    "name": "Implicit / Commitment, Integrity & Reciprocation / Consistency",
+    "type": "implicit",
+    "parent_id": "2.5",
+    "description": "The email invokes the recipient's past behaviour, stated values, or established role identity to create a sense of obligation to comply.",
+    "criteria": [
+      "Reference to the recipient's past actions or commitments",
+      "Appeal to the recipient's stated or assumed values",
+      "Role-based expectation framed as a consistency obligation"
+    ]
+  },
+  {
+    "id": "2.5.3",
+    "field": "commitment",
+    "name": "Implicit / Commitment, Integrity & Reciprocation / Commitment",
+    "type": "implicit",
+    "parent_id": "2.5",
+    "description": "The email creates obligation through explicit coercion, prior agreements, or role-based expectations with consequences for non-compliance.",
+    "criteria": [
+      "Explicit threat if the recipient does not comply",
+      "Reference to a prior agreement or obligation",
+      "Role-based duty framing with escalation consequences"
+    ]
+  },
+  {
+    "id": "2.5.4",
+    "field": "reciprocation",
+    "name": "Implicit / Commitment, Integrity & Reciprocation / Reciprocation",
+    "type": "implicit",
+    "parent_id": "2.5",
+    "description": "The email implies that a prior favour or service has been performed, creating a felt obligation for the recipient to return it.",
+    "criteria": [
+      "Explicit or implied claim that the sender has done something for the recipient",
+      "Framing of the request as a return of a favour",
+      "Effort or sacrifice claim used to create social debt"
+    ]
+  }
+]

@@ -1,0 +1,902 @@
+{
+  "9": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "3": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "14": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "6": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "20": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "19": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "7": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "18": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": true,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "4": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "15": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "8": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "12": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "10": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "16": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "1": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "5": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "13": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "11": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "17": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "2": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "21": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "50": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "57": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "59": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": true,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "32": {
+    "explicit": {
+      "information_manipulation": true,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "31": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "46": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "36": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "47": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "60": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "35": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "43": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "56": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "42": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "48": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "44": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "40": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "52": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "33": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "37": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "54": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "34": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "41": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "38": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "45": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "49": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "53": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "51": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": true,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "55": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "58": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": true,
+      "liking_similarity_deception": true,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "39": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": true,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": true,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": true,
+      "commitment_integrity_reciprocation": true
+    }
+  },
+  "26": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "27": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "23": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "29": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "24": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "28": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "25": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "22": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": true,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  },
+  "30": {
+    "explicit": {
+      "information_manipulation": false,
+      "resource_acquisition": false,
+      "trust_establishment": false,
+      "call_to_action": true
+    },
+    "implicit": {
+      "authority": false,
+      "social_proof": false,
+      "liking_similarity_deception": false,
+      "distraction": false,
+      "commitment_integrity_reciprocation": false
+    }
+  }
+}

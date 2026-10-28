@@ -1,0 +1,103 @@
+{
+  "dataset": "DIDECO (Popovic et al., LREC 2026)",
+  "human_iaa_baselines": {
+    "krippendorff_alpha": 0.407,
+    "mean_pairwise_kappa": 0.355,
+    "kappa_explicit": 0.577,
+    "kappa_implicit": 0.111,
+    "source": "Popovic et al. (LREC 2026), Appendix D \u2014 169 emails, 2+ annotators"
+  },
+  "runs": {},
+  "inter_llm_agreement": {
+    "claude_haiku4_flat vs claude_haiku4_hierarchical": {
+      "macro_kappa": 0.43764671911438435,
+      "macro_kappa_explicit": 0.4993837392154362,
+      "macro_kappa_implicit": 0.3882571030335428,
+      "n_common": 120
+    },
+    "claude_haiku4_flat vs gpt4o_flat": {
+      "macro_kappa": 0.3436953566500398,
+      "macro_kappa_explicit": 0.3091660566450018,
+      "macro_kappa_implicit": 0.37131879665407014,
+      "n_common": 120
+    },
+    "claude_haiku4_flat vs gpt4o_hierarchical": {
+      "macro_kappa": 0.2231088767355151,
+      "macro_kappa_explicit": 0.1833098861645124,
+      "macro_kappa_implicit": 0.2549480691923173,
+      "n_common": 120
+    },
+    "claude_haiku4_flat vs llama3_3_70b_flat": {
+      "macro_kappa": 0.2536923745953042,
+      "macro_kappa_explicit": 0.35764562304435454,
+      "macro_kappa_implicit": 0.17052977583606393,
+      "n_common": 120
+    },
+    "claude_haiku4_flat vs llama3_3_70b_hierarchical": {
+      "macro_kappa": 0.36826072655289505,
+      "macro_kappa_explicit": 0.2668061967408062,
+      "macro_kappa_implicit": 0.4494243504025661,
+      "n_common": 120
+    },
+    "claude_haiku4_hierarchical vs gpt4o_flat": {
+      "macro_kappa": 0.3550597850334469,
+      "macro_kappa_explicit": 0.38632104844122833,
+      "macro_kappa_implicit": 0.3300507743072217,
+      "n_common": 120
+    },
+    "claude_haiku4_hierarchical vs gpt4o_hierarchical": {
+      "macro_kappa": 0.3284860529161002,
+      "macro_kappa_explicit": 0.3977607233684138,
+      "macro_kappa_implicit": 0.2730663165542494,
+      "n_common": 120
+    },
+    "claude_haiku4_hierarchical vs llama3_3_70b_flat": {
+      "macro_kappa": 0.33007870027212954,
+      "macro_kappa_explicit": 0.4705243176776873,
+      "macro_kappa_implicit": 0.21772220634768336,
+      "n_common": 120
+    },
+    "claude_haiku4_hierarchical vs llama3_3_70b_hierarchical": {
+      "macro_kappa": 0.508089632209835,
+      "macro_kappa_explicit": 0.5180867192037595,
+      "macro_kappa_implicit": 0.5000919626146955,
+      "n_common": 120
+    },
+    "gpt4o_flat vs gpt4o_hierarchical": {
+      "macro_kappa": 0.36133013045419266,
+      "macro_kappa_explicit": 0.38345050825071103,
+      "macro_kappa_implicit": 0.3436338282169779,
+      "n_common": 120
+    },
+    "gpt4o_flat vs llama3_3_70b_flat": {
+      "macro_kappa": 0.31752898578084676,
+      "macro_kappa_explicit": 0.3075594730528647,
+      "macro_kappa_implicit": 0.32550459596323233,
+      "n_common": 120
+    },
+    "gpt4o_flat vs llama3_3_70b_hierarchical": {
+      "macro_kappa": 0.40265437054457215,
+      "macro_kappa_explicit": 0.4337667580911258,
+      "macro_kappa_implicit": 0.37776446050732926,
+      "n_common": 120
+    },
+    "gpt4o_hierarchical vs llama3_3_70b_flat": {
+      "macro_kappa": 0.20489198721358348,
+      "macro_kappa_explicit": 0.23516663509610905,
+      "macro_kappa_implicit": 0.18067226890756305,
+      "n_common": 120
+    },
+    "gpt4o_hierarchical vs llama3_3_70b_hierarchical": {
+      "macro_kappa": 0.4911056605236089,
+      "macro_kappa_explicit": 0.574875332131239,
+      "macro_kappa_implicit": 0.4240899232375048,
+      "n_common": 120
+    },
+    "llama3_3_70b_flat vs llama3_3_70b_hierarchical": {
+      "macro_kappa": 0.301692626970421,
+      "macro_kappa_explicit": 0.33671585423890676,
+      "macro_kappa_implicit": 0.2736740451556324,
+      "n_common": 120
+    }
+  }
+}

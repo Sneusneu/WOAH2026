@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-05-29T09:39:06.236472",
+  "dataset": "DIDECO (Popovic et al. 2026)",
+  "n_emails": 60,
+  "models": [
+    "gpt4o",
+    "claude",
+    "llama"
+  ],
+  "strategies": [
+    "flat"
+  ],
+  "human_iaa_baselines": {
+    "krippendorff_alpha": 0.407,
+    "mean_pairwise_kappa": 0.355,
+    "kappa_explicit": 0.577,
+    "kappa_implicit": 0.111
+  },
+  "runs": [
+    {
+      "model": "gpt4o",
+      "strategy": "flat",
+      "status": "ok",
+      "successful": 60,
+      "elapsed": 76.15258932113647
+    },
+    {
+      "model": "claude",
+      "strategy": "flat",
+      "status": "ok",
+      "successful": 60,
+      "elapsed": 483.47044014930725
+    },
+    {
+      "model": "llama",
+      "strategy": "flat",
+      "status": "ok",
+      "successful": 60,
+      "elapsed": 194.7952845096588
+    }
+  ]
+}

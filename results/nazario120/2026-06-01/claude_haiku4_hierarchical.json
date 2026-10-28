@@ -1,0 +1,5282 @@
+[
+  {
+    "id": "naz_001",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_002",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_003",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_004",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": true,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_005",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": false
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": false,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_006",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_007",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_008",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_009",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_010",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_011",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_012",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_013",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": true,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_014",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_015",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": true,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_016",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_017",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_018",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_019",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_020",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_021",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": true,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_022",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_023",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_024",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": false
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": false,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_025",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_026",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": true,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_027",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_028",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_029",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_030",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": true,
+        "strong_affect": false,
+        "need_and_greed": true,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_031",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_032",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": true,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": true,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_033",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_034",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_035",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_036",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_037",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_038",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_039",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_040",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_041",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_042",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_043",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_044",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_045",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_046",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_047",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_048",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_049",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_050",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_051",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_052",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_053",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_054",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_055",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_056",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_057",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_058",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_059",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": true,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_060",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_061",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_062",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_063",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": true,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_064",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": true,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": true,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": true,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_065",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_066",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_067",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_068",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_069",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_070",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_071",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": true,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_072",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": false
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": false,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_073",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": true,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": true,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_074",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_075",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": true,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_076",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": true,
+        "integrity": true,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_077",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_078",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": true,
+        "overloading": true,
+        "strong_affect": false,
+        "need_and_greed": true,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_079",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_080",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_081",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_082",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_083",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_084",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_085",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_086",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_087",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_088",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_089",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_090",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": false
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": false,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_091",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_092",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_093",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_094",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_095",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_096",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_097",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_098",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": false,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": false,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": true,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": true,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_099",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_100",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_101",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_102",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": false,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": false,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_103",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": true,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_104",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_105",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": false
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": false,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": false,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_106",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_107",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_108",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": true,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_109",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_110",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": false,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_111",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": false,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_112",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_113",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_114",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_115",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_116",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_117",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": false,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": false,
+        "social_proof": false,
+        "liking_similarity_deception": false,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": false,
+        "direct_financial_gain": true,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": false,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_118",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": false,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": true,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_119",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": true,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": true
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": false,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": false,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": true,
+        "commitment": true,
+        "reciprocation": false
+      }
+    }
+  },
+  {
+    "id": "naz_120",
+    "annotations": {
+      "explicit": {
+        "information_manipulation": true,
+        "resource_acquisition": false,
+        "trust_establishment": true,
+        "call_to_action": true
+      },
+      "implicit": {
+        "authority": true,
+        "social_proof": false,
+        "liking_similarity_deception": true,
+        "distraction": true,
+        "commitment_integrity_reciprocation": false
+      },
+      "fine_grained": {
+        "information_gathering": true,
+        "information_control": true,
+        "direct_financial_gain": false,
+        "indirect_resource_acquisition": false,
+        "identity_establishment": true,
+        "legitimacy_creation": true,
+        "direct_action_requests": true,
+        "indirect_action_facilitation": false,
+        "authority": true,
+        "herd_mentality": false,
+        "diffusion_of_responsibility": false,
+        "moral_duty": false,
+        "general_deception": true,
+        "deceptive_relationships": true,
+        "liking_and_similarity": false,
+        "scarcity_time": true,
+        "scarcity_resource": false,
+        "overloading": false,
+        "strong_affect": true,
+        "need_and_greed": false,
+        "integrity": false,
+        "consistency": false,
+        "commitment": false,
+        "reciprocation": false
+      }
+    }
+  }
+]
